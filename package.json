@@ -1,0 +1,22 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "Nodejs crud webservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wanderer1-0/testApi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wanderer1-0/testApi/issues"
+  },
+  "homepage": "https://github.com/wanderer1-0/testApi#readme",
+  "dependencies": {
+    "pg": "^8.0.3"
+  }
+}
